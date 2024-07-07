@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+}
+h1{
+    font-size: 40px;
+}
+.pimag{
+    background-image: url(HD-wallpaper-view-nature-beautiful-flowers-love-mountain-nature-view.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.section-1{
+    position: absolute;
+     top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+.textarea{
+    color: black;
+    background-color: grey;
+    padding: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+}
+.pimag2{
+    background-image: url(mountain_river_grass_87739_1920x1080.jpg);
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+ .section-2{
+    padding: 50px 80px;
+   text-align: center;
+   background-color:beige;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+ .text{
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+ }
+ .bg{
+    
+    color: black;
+    background-color: grey;
+    font-family:"lato",sans-serif; ;
+    font-size: 30px;
+    letter-spacing: 3px;
+    padding:20px ;
+ }
+
+.pimag3{
+    background-image: url(tree_nature.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.section-3{
+    padding: 40px;
+    padding: 50px 80px;
+    text-align: center;
+    background-color:beige;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.bg1{
+    text-transform: uppercase;
+    color:white;
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 4px;
+
+}
+.pimag4{
+    width: 100%;
+    height: 100vh;
+    background-image: url(HD-wallpaper-nature.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.section-4{
+   padding: 50px 80px;
+   text-align: center;
+    background-color:beige;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
